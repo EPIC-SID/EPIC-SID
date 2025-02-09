@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @EPIC-SID
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on AI devlopment
-- 📫 How to reach me on discord
- https://discord.gg/C2wBTgux5t
+- 🌱 I’m currently learning web development
+- 📫 How to reach me : 
+ [Discord](https://discord.gg/ckHzTAM9Kj)
 
 <!---
 EPIC-SID/EPIC-SID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
