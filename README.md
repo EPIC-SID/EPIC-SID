@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EPIC-SID
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development, DSA in Java. 
 - 📫 How to reach me : 
  [Discord](https://discord.gg/ckHzTAM9Kj)
 
