@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on some projects for my college.<br>I’m currently learning different frameworks in Web Devlopment<br>Ask me about Java, Python, React.<br>
+I’m currently working on some projects for my college.<br>I’m currently learning different frameworks in Web Devlopment.<br>Ask me about Java, Python, React.<br>
 
 
 ## 🌐 Socials:
